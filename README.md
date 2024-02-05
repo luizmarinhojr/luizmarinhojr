@@ -17,7 +17,8 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmarinhojr&layout=compact)
+![MeItGIF](https://github.com/luizmarinhojr/luizmarinhojr/assets/100722777/317c8c69-b68a-4e3a-8331-7a17fc72279c)
+
 
 <br>
 
