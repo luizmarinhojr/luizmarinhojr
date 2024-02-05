@@ -17,10 +17,9 @@
 
 <br>
 
-![MeItGIF](https://github.com/luizmarinhojr/luizmarinhojr/assets/100722777/317c8c69-b68a-4e3a-8331-7a17fc72279c)
-
-
-<br>
+<div class="image-gif">
+    <img alt="Gato digitando super fast" src="https://github.com/luizmarinhojr/luizmarinhojr/assets/100722777/9d1c2017-fdac-4e55-8308-06bee5dd5f81" height="230px">
+</div>
 
 ### About me 🧑🏻‍🦱
 * 24 years old.
