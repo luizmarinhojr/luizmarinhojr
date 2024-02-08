@@ -1,7 +1,5 @@
-<h1 align="center"> Hi! I am Luiz, but you can call me Louis <img alt="Hand shaking" src="https://github.com/luizmarinhojr/luizmarinhojr/assets/100722777/54e7152c-9cb2-40ca-8dd1-a592d8d76f68" width=45px></h1>
-
-
 <div align="center">
+    <h1> Hi! I am Luiz, but you can call me Louis <img alt="Hand shaking" src="https://github.com/luizmarinhojr/luizmarinhojr/assets/100722777/54e7152c-9cb2-40ca-8dd1-a592d8d76f68" width=45px></h1>
     <a href="https://www.linkedin.com/in/luizmarinhojr/">
         <img alt="Go to my Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizmarinhojr/">
     </a>
@@ -37,8 +35,8 @@
 <br>
 
 <div class="languages" align="center">
-    <h2 align="center">Languages</h2>
-    <pre align="center">Portuguese <img alt="Portuguese" src="https://hatscripts.github.io/circle-flags/flags/br.svg" width=15px>  English <img alt="English" src="https://hatscripts.github.io/circle-flags/flags/us.svg" width=15px>  Spanish <img alt="Spanish" src="https://hatscripts.github.io/circle-flags/flags/es.svg" width=15px>  Chinese <img alt="Chinese" src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width=15px></pre>
+    <h2>Languages</h2>
+    <pre>Portuguese <img alt="Portuguese" src="https://hatscripts.github.io/circle-flags/flags/br.svg" width=15px>  English <img alt="English" src="https://hatscripts.github.io/circle-flags/flags/us.svg" width=15px>  Spanish <img alt="Spanish" src="https://hatscripts.github.io/circle-flags/flags/es.svg" width=15px>  Chinese <img alt="Chinese" src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width=15px></pre>
 </div>
 
 <br>
